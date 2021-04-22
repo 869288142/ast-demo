@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@babel/generator": "^7.12.1",
-    "@babel/template": "^7.10.4"
+    "@babel/template": "^7.10.4",
+    "jscodeshift": "^0.11.0"
   }
 }

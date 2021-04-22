@@ -1,0 +1,1 @@
+`jscodeshift -t index.js test.js `
