@@ -7,3 +7,16 @@ module.exports = function visitor(code, visitor) {
     // ast -> code
     return print(ast).code
 }
+
+
+
+
+
+
+jscodeshift
+
+gogocode
+
+// 查找
+// 构造
+// 修改
