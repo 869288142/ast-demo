@@ -1,10 +1,8 @@
 $.ajax({
-    url: './',
+    url: Mobi.genAjax(),
     type: 'get',
-    data: {
-        a: 1
-    },
-    success() {
+    data: 'cmd',
+    success: function(result) {
         console.log('success');
         {
             a:1
